@@ -1,0 +1,5 @@
+export const USER_LOGOUT = 'USER_LOGOUT';
+export const USER_LOGIN = 'USER_LOGIN';
+export const USER_PROFILE_PICTURE = 'USER_PROFILE_PICTURE';
+export const USER_FCM_TOKEN = 'USER_FCM_TOKEN';
+

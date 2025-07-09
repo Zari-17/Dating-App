@@ -1,0 +1,2 @@
+password: connectdate
+key alias: key0
